@@ -50,3 +50,4 @@ export async function triggerElexonSync(fromDate = '2026-01-01', toDate = '2026-
   if (!res.ok) throw new Error(`Sync failed: ${res.statusText}`);
   return await res.json();
 }
+

@@ -79,3 +79,4 @@ def test_procurement_simulation():
     assert len(data["schedule"]) == 24
     assert "summary" in data
     assert data["summary"]["totalDemandMWh"] == 60000.0
+

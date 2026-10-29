@@ -343,3 +343,4 @@ export default function ErrorAnalyticsView({ onSelectDate, gateClosureHour }) {
     </div>
   );
 }
+

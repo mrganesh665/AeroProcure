@@ -89,3 +89,4 @@ class ElexonClient:
             "actualsCount": len(fuel_rows),
             "forecastsCount": len(fc_rows)
         }
+

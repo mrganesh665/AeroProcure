@@ -281,3 +281,4 @@ export default function ProcurementSimulator({ deliveryDate, gateClosureHour }) 
     </div>
   );
 }
+

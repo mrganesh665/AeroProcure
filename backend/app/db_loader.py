@@ -108,3 +108,4 @@ if __name__ == "__main__":
     wf_path = os.path.join(base_data, "windfor_raw.json")
     fh_path = os.path.join(base_data, "fuelhh_raw.json")
     populate_from_json(wf_path, fh_path)
+

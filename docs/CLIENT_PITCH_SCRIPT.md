@@ -86,3 +86,4 @@
 > "In summary: AeroProcure UK transforms wind uncertainty from an operational liability into a strategic advantage. It guarantees decision-time data integrity, provides automated statistical risk metrics, and gives your traders the confidence to size thermal purchases optimally.
 > 
 > The pilot is fully live, tested, and containerized. We are ready to integrate this into your desk’s daily workflow starting next week. Thank you, and I’d be delighted to take your questions."
+
